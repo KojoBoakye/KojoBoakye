@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Samuel Kojo Boakye🇬🇭
+I am Samuel Kojo Boakye🇬🇭 <br>
 An aspiring data analyst 🧑🏿‍💻📈
 🔭 I’m currently exploring on Spreadsheets,SQL,Tableau,Power BI,Python and R
 🌱 I’m currently **everything**
