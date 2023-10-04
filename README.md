@@ -5,6 +5,7 @@ An aspiring data analyst 🧑🏿‍💻📈<br>
 🌱 I’m learning **everything** 💚<br>
 📫 How to reach me: +233507283378 and kojoboakyejnr@outlook.com <br>
 💬 I am writing in public on [medium](https://medium.com/@kojoboakye21)
+🔗[linkedin](https://www.linkedin.com/in/samuel-boakye/)
 <!--
 **KojoBoakye/KojoBoakye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
