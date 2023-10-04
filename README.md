@@ -1,8 +1,8 @@
 ## Hi there 👋
 I am Samuel Kojo Boakye🇬🇭 <br>
 An aspiring data analyst 🧑🏿‍💻📈<br>
-🔭 I’m currently exploring on Spreadsheets,SQL,Tableau,Power BI,Python and R <br>
-🌱 I’m learning **everything** <br>
+🔭 I’m currently exploring Spreadsheets,SQL⚙️,Tableau,Power BI 📈,Python 🐍 and R <br>
+🌱 I’m learning **everything** 💚<br>
 📫 How to reach me: +233507283378 and kojoboakyejnr@outlook.com <br>
 💬 I am writing in public on [medium](https://medium.com/@kojoboakye21)
 <!--
