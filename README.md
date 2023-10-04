@@ -1,9 +1,9 @@
 ## Hi there 👋
 I am Samuel Kojo Boakye🇬🇭 <br>
-An aspiring data analyst 🧑🏿‍💻📈
-🔭 I’m currently exploring on Spreadsheets,SQL,Tableau,Power BI,Python and R
-🌱 I’m currently **everything**
-📫 How to reach me: +233507283378 and kojoboakyejnr@outlook.com
+An aspiring data analyst 🧑🏿‍💻📈<br>
+🔭 I’m currently exploring on Spreadsheets,SQL,Tableau,Power BI,Python and R <br>
+🌱 I’m currently **everything** <br>
+📫 How to reach me: +233507283378 and kojoboakyejnr@outlook.com <br>
 💬 I am writing in public on [medium](https://medium.com/@kojoboakye21)
 <!--
 **KojoBoakye/KojoBoakye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
